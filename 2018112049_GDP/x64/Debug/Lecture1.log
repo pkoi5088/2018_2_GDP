@@ -1,0 +1,47 @@
+﻿  DrawFunctions.cpp
+  Game2D.cpp
+  main.cpp
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(13): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(25): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(40): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(55): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(69): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(84): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(100): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(114): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(131): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\number.h(147): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(51): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(61): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(100): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(156): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(168): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(204): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(229): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(238): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(258): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(276): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(286): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(294): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(298): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(308): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(313): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(617): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(628): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(638): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(647): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(654): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(661): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(691): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(700): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(711): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(723): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(733): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(740): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(747): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pkoi5\downloads\2018112049_gdp\main.cpp(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  Timer.cpp
+  코드를 생성하고 있습니다...
+c:\users\pkoi5\downloads\2018112049_gdp\gameexample.h(36): warning C4715: 'jm::get_direction': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Lecture1.vcxproj -> C:\Users\pkoi5\Downloads\2018112049_GDP\x64\Debug\GAME.exe
