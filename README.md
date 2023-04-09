@@ -1,6 +1,5 @@
 # 2018_2_GDP
-본 프로젝트는 2018년도 2학기 심화프로그래밍에서 다룬 프로젝트로 현재는 inflearn의 ‘게임 만들기 연습 문제 패키지’로 강의가 열려있다.(https://www.inflearn.com/course/c-2/dashboard)  
-OpenGL은 화면에 그림을 그리는 라이브러리로 해당 프로젝트는 간단한 drawLine, drawWiredTriangle과 같은 기본적인 그리기 함수가 구현되어 있다.  
+OpenGL로 만든 슈팅게임 
 
 ## 게임구성
 게임은 총 2개의 스테이지로 구성되어 있다.  
